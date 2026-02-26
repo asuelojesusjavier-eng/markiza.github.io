@@ -1,4 +1,4 @@
-Portfolio Web - Mark Antoni Iza Montatixe
+Portfolio Web - Jesus javier asu alo abeng 
 
 ¡Bienvenido a mi portfolio personal!  
 Aquí encontrarás una presentación profesional de mi perfil como **Desarrollador de Aplicaciones Multiplataforma**, incluyendo mi experiencia laboral, proyectos destacados y formas de contacto.
@@ -37,9 +37,9 @@ portfolio-mark-antoni/
 Secciones destacadas
 
 - **Sobre mí:** Breve presentación personal y objetivos profesionales.
-- **Experiencia laboral:** Descripción detallada de empleos anteriores con sus respectivos logos y enlaces a sus páginas web.
+- **Experiencia laboral:** expreriencia en clases particulares y en reparaciones de ordenadores .
 - **Proyectos:** Incluye mi proyecto destacado **DEKU FIT**, una app de gimnasio personalizada.
-- **Contacto:** Enlaces a mi email y perfil de LinkedIn.
+- **Contacto:** 0669201087y javierasuasu@gmail.com perfil de LinkedIn.
 
    ```bash
-   git clone https://github.com/tuusuario/portfolio-mark-antoni.git
+   git clone https://github.com/tuusuario/portfolio-javierasuasu@gmail.com
