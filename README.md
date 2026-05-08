@@ -6,7 +6,7 @@ Aquí encontrarás una presentación profesional de mi perfil como **Desarrollad
 Vista previa
 ![Preview del Portfolio](img/fotoperfil.jpeg)
 
-📍 Visita mi página aquí: https://mark-iza.github.io/markiza.github.io/
+📍 Visita mi página aquí: https://jesusjzvierasu.github.io/markiza.github.io/
 
 ---
 
@@ -22,7 +22,7 @@ Tecnologías usadas
 
 Estructura del proyecto
 
-portfolio-mark-antoni/
+portfolio-jesusjavier/
 │
 ├── index.html # Página principal
 ├── css/
